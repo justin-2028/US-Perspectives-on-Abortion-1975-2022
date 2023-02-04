@@ -2,7 +2,7 @@
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12064410%2F66268a15513f366aeeea35cc69051c2b%2Fabortion%20flag.png?generation=1675499090398375&alt=media)
 
-# DAY 17196 (April 4, 1975 - May 2, 2022)
+# DAY 17,196 (April 4, 1975 - May 2, 2022)
 This is a dataset that describes the **changing perspectives** on a **woman's right to choose** in America.
 
 All data are official figures from **Gallup**, formerly known as the American Institute of Public Opinion, that have been compiled and structured by myself. Roe V. Wade
