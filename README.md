@@ -5,13 +5,14 @@
 # DAY 17,196 (April 4, 1975 - May 2, 2022)
 This is a dataset that describes the **changing perspectives** on a **woman's right to choose** in America.
 
-All data are official figures from **Gallup**, formerly known as the American Institute of Public Opinion, that have been compiled and structured by myself. Roe V. Wade
+All data are official figures from **Gallup**, formerly known as the American Institute of Public Opinion, that have been compiled and structured by myself. I decided to create this dataset to explore how American views on abortion have evolved in the decades preceding the Dobbs V. Jackson Women's Health Organization decision. In that particular court case, the Supreme Court also overturned the **1973 Roe V. Wade decision**, ending the *long-standing constitutional right to abortion* in the United States. Abortion has become a fixture of American politics in recent years, but few are able to take a bipartisan stance on the issue. I hope that the **objectiveness of the quantitative data** in this dataset can allow for a **more rational understanding** of the issue.
+
 
 # Data Sources
 ##### The primary data source used was Gallup, an analytics company renowned for its expansive public opinion polls. With decades worth of data on the sentiments of Americans, Gallup is an organization uniquely equipped to address the shifting attitudes on abortion. 
 
-1. [Gallup's Historical Trends On Abortion](https://news.gallup.com/poll/1576/abortion.aspx) - HRANA published daily updates in English since 10/16/22 on their Twitter, but several days' worth of data was skipped (primarily during early December 2022). 
-2. [HRANA's Persian Instagram Account](https://www.instagram.com/hra.news/?hl=en) - HRANA published daily updates in Persian since 10/12/22 on their Instagram, and at a rate far more consistent than HRANA's English Twitter account. I used Google Translate's image scan to read the Persian graphics with the missing data I needed. 
+1. [Gallup's Historical Trends On Abortion](https://news.gallup.com/poll/1576/abortion.aspx) - Gallup publicly released not only their opinion data about abortion, but also attached corresponding visualizations that conveyed to me the analytical potential of a compiled dataset.
+2. [Gallup's "Where Do Americans Stand On Abortion?"](https://news.gallup.com/poll/321143/americans-stand-abortion.aspx) - While searching for quality data sources regarding abortion (ex. MMWR, CDC, PMSS), I found this Gallup article, which piqued my interest and led me to their "Historical Trends" page.
 
 # Reponses Being Tracked
 - Q1꞉ Should Abortions Be Legal?
@@ -32,4 +33,4 @@ All data are official figures from **Gallup**, formerly known as the American In
 [Link to Notebook]()
 
 # Acknowledgements
-The idea for this dataset came from Ms. Katlen, my English teacher. A big thank you to her for suggesting that I should explore the changing perspectives on a woman's right to choose! 
+The idea for this dataset came from Ms. Katlen, my English teacher. A big thank you to her for the suggestion to explore how perspectives have changed about a woman's right to choose :)
