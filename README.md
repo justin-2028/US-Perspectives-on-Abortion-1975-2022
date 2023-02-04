@@ -30,7 +30,7 @@ All data are official figures from **Gallup**, formerly known as the American In
 [Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/perspectives-on-abortion-1975-2022) - The same data but on Kaggle.
 
 # Code Starter
-[Link to Notebook]()
+[Link to Notebook](https://www.kaggle.com/code/justin2028/us-perspectives-on-abortion-code-starter)
 
 # Acknowledgements
 The idea for this dataset came from Ms. Katlen, my English teacher. A big thank you to her for the suggestion to explore how perspectives have changed about a woman's right to choose :)
