@@ -25,7 +25,7 @@ All data are official figures from **Gallup**, formerly known as the American In
 - Q7꞉ Are You Satisfied Or Dissatisfied With Nationʼs Policies On Abortion?
 
 # Dataset History
-2023-02-04 - dataset is created (17,474 days after the coverage start date).
+2023-02-04 - Dataset is created (17,474 days after the coverage start date).
 
 [Kaggle Dataset](https://www.kaggle.com/datasets/justin2028/perspectives-on-abortion-1975-2022) - The same data but on Kaggle.
 
